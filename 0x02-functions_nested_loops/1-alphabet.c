@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * print_alphabet - function to print abc
+ * print_alphabelt - function to print abc
  *
  * Return: 0
  */
-void print_alphabet(void)
+void print_alphabelt(void)
 {
          char c;
           
@@ -12,5 +12,5 @@ void print_alphabet(void)
 	 {
 	_putchar(c);
          }
- putchar ('\n');
+ putchar('\n');
 }
