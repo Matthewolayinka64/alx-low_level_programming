@@ -5,9 +5,10 @@
 /**
  * print_rev - prints a string in reverse order
  * @s: string to reverse
- * Return: nothing
+ * Return: Nothing
  */
-void print_rev - (char *s)
+
+void print_rev(char *s)
 {
 	int len = strlen(s);
 
